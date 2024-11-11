@@ -1,5 +1,7 @@
 ## Project Description
 
+The project uses advanced data structures to manage network clusters. The project includes an array list `ArrayListWithUndo` that supports reversible operations, a `NetworkWithUndo` structure for managing clusters with path flattening and size-based merging, and a `Gadget` function for safe node reconnections and network state management.
+
 ## Contributors
 
 |  | Name | 
