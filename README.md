@@ -1,7 +1,9 @@
 # NetworkProject
 
-| Contributors | Role |
-| ------------ | ---- |
-| ![@yourusername](https://github.com/yourusername.png?size=50) [@yourusername](https://github.com/yourusername) | Lead Developer |
-| ![@teammate1](https://github.com/teammate1.png?size=50) [@teammate1](https://github.com/teammate1) | Algorithm Designer |
-| ![@teammate2](https://github.com/teammate2.png?size=50) [@teammate2](https://github.com/teammate2) | Documentation and Testing |
+## Contributors
+
+|  | Name | Role |
+| - | ---- | ---- |
+| <img src="https://github.com/yourusername.png" width="30"> | [@yourusername](https://github.com/yourusername) | Lead Developer |
+| <img src="https://github.com/teammate1.png" width="30"> | [@teammate1](https://github.com/teammate1) | Algorithm Designer |
+| <img src="https://github.com/teammate2.png" width="30"> | [@teammate2](https://github.com/teammate2) | Documentation and Testing |
